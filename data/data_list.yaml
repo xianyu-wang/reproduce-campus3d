@@ -1,5 +1,5 @@
-MAIN_DATA_PATH: 'data/campus3d_reduced'
-MAIN_LABEL_PATH: 'data/campus3d_reduced'
+MAIN_DATA_PATH: '/home/wangxianyu/Dev/data/Campus3D_reduced'
+MAIN_LABEL_PATH: '/home/wangxianyu/Dev/data/Campus3D_reduced'
 TRAIN_SET:
   - DATA_PATH:
       DATA: 'FASS/FASS.pcd'
