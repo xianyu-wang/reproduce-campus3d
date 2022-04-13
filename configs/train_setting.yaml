@@ -30,6 +30,6 @@ TRAIN:
 
 DEVICES:
   GPU_ID: 
-    - 0
+    - 2
   SEED: 1
 
